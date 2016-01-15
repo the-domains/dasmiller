@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T22:40:58.600Z'
-dateModified: '2016-01-15T22:40:33.584Z'
+datePublished: '2016-01-15T22:43:38.582Z'
+dateModified: '2016-01-15T22:43:23.696Z'
 title: "Today's Beer"
 author: []
+sourcePath: _posts/2016-01-15-todays-beer.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-15-todays-beer.md
-published: true
 url: todays-beer/index.html
 _type: Article
 
