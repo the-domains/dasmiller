@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[DasMiller]]></title>
         <description><![CDATA[DasMiller]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dasmiller/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 22:40:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 22:44:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dasmiller/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Today's Beer]]></title>
             <description><![CDATA[<article><h1>Today's Beer</h1><h2>Indeed Stir Crazy</h2><p>Raisins, Cocoa, Vanilla. 6.5% alc/vol 20 IBU. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07541c68ab758e91717ecd1df1450743b6c84ba0.png"></article>]]></description>
-            <link>undefinedtodays-beer/index.html</link>
+            <link>https://thegrid.ai/dasmiller/todays-beer/index.html</link>
             <guid isPermaLink="false">282ec10d-7e84-4c6c-9731-1a8c9c0cf5b1</guid>
-            <pubDate>Fri, 15 Jan 2016 22:40:58 GMT</pubDate>
+            <pubDate>Fri, 15 Jan 2016 22:43:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
