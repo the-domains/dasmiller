@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T22:43:38.582Z'
+datePublished: '2016-01-15T22:43:38.593Z'
 dateModified: '2016-01-15T22:43:23.696Z'
 title: "Today's Beer"
 author: []
